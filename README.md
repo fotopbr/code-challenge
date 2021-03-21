@@ -77,7 +77,7 @@ Não avaliaremos mas gostamos de ver:
 - Testes automatizados (principalmente testes unitários cobrindo as regras de negócio).
 
 ## Entrega
-Disponibilize o código para acessarmos em um repositório em alguma plataforma que utiliza git como controle de versão (github, gitlab, ...). Caso queira manter o repositório privado basta conceder acesso para o email `pedro@fotop.com.br`.
+Disponibilize o código para acessarmos em um repositório em alguma plataforma que utiliza git como controle de versão (github, gitlab, ...). Caso queira manter o repositório privado basta conceder acesso para o email `tecnologia@fotop.com.br`.
 
 Nos notifique por email que o codigo está pronto para ser avaliado e nos envie o link do repositório.
 
